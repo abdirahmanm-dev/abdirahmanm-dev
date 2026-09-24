@@ -24,4 +24,3 @@
 | Project | Description |
 |---|---|
 | [CalcFlow](https://github.com/abdirahmanm-dev/CalcFlow) | A Samsung One UI–inspired calculator app built with Flutter |
-| [UWebNotes](https://github.com/abdirahmanm-dev/UWebNotes) | Personal HTML/CSS/JS reference site with an interactive flip-card design |
