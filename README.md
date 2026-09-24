@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdirahman Mohamed 👋</h1>
+<h1 align="center">I'm Abdirahman Mohamed </h1>
 
 <p align="center">
   Self-taught developer turning ideas into clean, working apps — currently expanding into Cybersecurity & Networking.
