@@ -1,8 +1,4 @@
-<h1 align="center">I'm Abdirahman Mohamed </h1>
-
-<p align="center">
-  Self-taught developer turning ideas into clean, working apps — currently expanding into Cybersecurity & Networking.
-</p>
+<h1 align="center">Abdirahman Mohamed</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -14,11 +10,6 @@
 </p>
 
 ---
-
-### 🚀 About Me
-- 🔭 I build real-world apps with **Flutter**, **Python**, and vanilla **web development**
-- 🌱 Currently learning toward **Network+** certification and **Cybersecurity**
-- 💡 Self-taught, independent, and always shipping something
 
 ### 🛠️ Featured Projects
 | Project | Description |
